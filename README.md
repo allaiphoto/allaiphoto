@@ -9,5 +9,5 @@ open http://localhost:4000
 ### Print images:
 
 ```
-$ bundle exec jekyll images maternity | uniq
+$ bundle exec jekyll images maternity | sort | uniq
 ```
