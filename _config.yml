@@ -40,6 +40,12 @@ collections:
 # Build settings
 livereload: true
 
+# Image settings
+image_width: 2048
+thumbnail_width: 1365
+image_small_height: 600
+image_quality: 100
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
