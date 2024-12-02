@@ -197,7 +197,7 @@ function failMessage() {
 
 function pumpkinMessage() {
   Swal.fire({
-    html: '<a href="/contact"><img src="/images/pumpkin_ad.jpg" alt="Images" class="img-fluid"></a>',
+    html: '<a href="/contact"><img src="/images/holiday_minis.jpg" alt="Images" class="img-fluid"></a>',
     allowOutsideClick: true,
     showCancelButton: true, // Shows the cancel button
     confirmButtonText: "Book Now", // Confirm button text
